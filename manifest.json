@@ -9,12 +9,7 @@
     "icons": [
         {
             "src": "youtube.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "youtube.png",
-            "sizes": "512x512",
+            "sizes": "24x24",
             "type": "image/png"
         }
     ]
