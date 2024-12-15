@@ -8,8 +8,8 @@
     "theme_color": "#000000",
     "icons": [
         {
-            "src": "youtube.png",
-            "sizes": "24x24",
+            "src": "harvestor.jpg",
+            "sizes": "225x225",
             "type": "image/png"
         }
     ]
